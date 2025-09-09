@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 3: Feed-Forward Neural Network – Churn Prediction
 
 This project implements a **Feed-Forward Neural Network (FFNN)** using TensorFlow/Keras to predict **customer churn**. The dataset is split into 80% training and 20% testing.
@@ -62,3 +63,6 @@ This project implements a **Feed-Forward Neural Network (FFNN)** using TensorFlo
 - matplotlib
 
 - seaborn
+=======
+# ML-internship-projects
+>>>>>>> f99a90705c251af9f0053cb5ba7eedf90cb2a463
